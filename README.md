@@ -1,6 +1,6 @@
 
 <div align="center">
-  <b stlye="font-size: 5px;">Hi, I am HyunJu Song ✨:</b> 
+  <b> <h3>Hi, I am HyunJu Song ✨:</h3></b> 
 <a href="https://velog.io/@shyunju7"><img src="https://img.shields.io/badge/velog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@shyunju7"/></a>&nbsp
    <a href="mailto:songthdo427@gmail.com"><img src="https://img.shields.io/badge/songthdo427@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=songthdo427@gmail.com"/></a>
   <br/>
