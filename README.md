@@ -30,4 +30,4 @@
 </div>
 
 ## 🌱 Git Contribution Chart
- ![Snake animation](https://github.com/shyunju7/shyunju7/blob/output/github-contribution-grid-snake.svg)<br><br>
+ ![Snake animation](https://github.com/shyunju7/shyunju7/blob/output/github-contribution-grid-snake.svg)<br>
