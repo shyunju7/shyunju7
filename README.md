@@ -28,3 +28,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyunju7&hide=contribs&theme=vue)
   
 </div>
+
+## 🌱 Git Contribution Chart
+ ![Snake animation](https://github.com/shyunju7/shyunju7/blob/output/github-contribution-grid-snake.svg)<br><br>
